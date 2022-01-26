@@ -7,8 +7,8 @@ global _start
 
 _start:
 
-    mov     eax, 4294967295
-    mov     ebx, -2
+    mov     eax, 42
+    mov     ebx, 7
     add     eax, ebx
     call    iprintLF
     

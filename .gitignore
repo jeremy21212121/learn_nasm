@@ -1,0 +1,3 @@
+# ignore temporary compiler output files
+*.o
+
